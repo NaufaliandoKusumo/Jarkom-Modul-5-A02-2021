@@ -37,7 +37,7 @@ Dengan VLSM tree sebagai berikut :
 ![]()
 
 ## C . Routing
-diharuskan melakukan Routing agar setiap perangkat pada jaringan tersebut dapat terhubung.
+Diharuskan melakukan Routing agar setiap perangkat pada jaringan tersebut dapat terhubung.
 - Konfigurasi GNS3 & Routing
   - FOOSHA
     ```
